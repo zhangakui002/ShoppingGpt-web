@@ -1,6 +1,6 @@
 <template>
   <q-scroll-area class="q-ma-md" ref="scrollAreaRef" style="height: 70vh">
-    <q-input v-model="sessionKey"></q-input>
+    
     <div class="row justify-center">
       <div style="width: 100%; max-width: 1000px">
         <q-chat-message class="chatItem" bg-color="grey-3">
